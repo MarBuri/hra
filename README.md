@@ -1,4 +1,4 @@
-# hra
+# Text game
 First try of text game in python 
 
 It's easy loop but make you feel you are making choices
